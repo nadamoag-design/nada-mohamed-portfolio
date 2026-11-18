@@ -1,0 +1,11 @@
+{
+  "all_required_sections": true,
+  "email_used": true,
+  "linkedin_present": true,
+  "whatsapp_present": true,
+  "no_employment_dates_claims": true,
+  "no_years_of_experience": true,
+  "no_old_metrics": true,
+  "all_four_projects": true,
+  "no_previous_facebook_contact": true
+}
