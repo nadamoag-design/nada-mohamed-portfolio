@@ -1,0 +1,11 @@
+INTEGRATION STEPS
+
+1) Upload portfolio-upgrade.css and portfolio-upgrade.js to the repository (for example, into an `assets` folder).
+2) In index.html, inside <head>, add this line after your existing stylesheet link:
+   <link rel="stylesheet" href="assets/portfolio-upgrade.css">
+3) Before the closing </body> tag, add:
+   <script src="assets/portfolio-upgrade.js" defer></script>
+4) If you upload the two files to the repository root instead of `assets`, remove `assets/` from both paths.
+5) Commit the changes, wait for GitHub Pages to deploy, then hard-refresh the site.
+
+Do not replace your existing styles.css or script.js with these enhancement files.
